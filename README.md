@@ -1,5 +1,9 @@
 # Drawing Diagram Using MermaidJS
 
+## Video Explanation in Bahasa
+
+1. <https://youtu.be/Ldwdo2MqUR0>
+
 ## ERD
 
 ```mermaid
